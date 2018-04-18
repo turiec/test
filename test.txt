@@ -1,3 +1,2 @@
-Toto je môj prvý text v repo.
-Je práve 18.4.2018.
-
+Toto je môj nový text v repo.
+Je stále 18.4.2018.
