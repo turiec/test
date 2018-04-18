@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Toto je môj nový text.
 Je práve 18.4.2018 14:39.
 Toto je druhý text.
->>>>>>> f590a1e257cd139b61fb4f67f009d6f93ccc446e
